@@ -14,7 +14,7 @@ Instead of relying solely on a model's pre-trained knowledge, SecureRAG retrieve
 * ✂️ Intelligent document chunking
 * 🔍 Semantic similarity search using FAISS
 * 🧠 Context-aware question answering
-* 🤖 Google Gemini integration
+* 🤖 Google Gemini, OpenAi and Huggingface integration
 * ⚡ Fast document retrieval and response generation
 * 📚 Vector database storage for efficient search
 * 🔒 Secure document-based querying
