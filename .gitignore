@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+vectorstore/
+
+# Python Cache
+__pycache__/
+*.pyc/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env/
+
+# Demo Videos
+Demonstration video/
+
+#Conda 
+.conda/
