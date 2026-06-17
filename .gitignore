@@ -1,23 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
 # Virtual Environment
 .venv/
 venv/
 
-# IDE
+# VS Code
 .vscode/
-vectorstore/
 
-# Python Cache
-__pycache__/
-*.pyc/
+# PyCharm
+.idea/
 
-# Jupyter
-.ipynb_checkpoints/
+# VS Code temporary files
+tempCodeRunnerFile.py
 
 # Environment Variables
-.env/
+.env
 
-# Demo Videos
-Demonstration video/
-
-#Conda 
-.conda/
+.conda
